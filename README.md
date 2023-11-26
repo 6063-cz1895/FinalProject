@@ -10,5 +10,5 @@ My second project idea is to create a game controlled by a “game controller”
 
 
 Proposal 3:
-My third project idea is more challenging. Inspired by the banana example you included in the last material, I thought about lie detectors, which seem to work through changes in resistance. So, I'm considering using this principle for a project. p5.js would provide feedback based on the input information, or it could serve as the interface for this game!
+My third project idea is more challenging. Inspired by the banana example you included in the last material, I thought about lie detectors, which seem to work through changes in resistance. So, I'm considering using this principle for a project. p5.js would provide feedback based on the input information, or it could serve as the interface for this game.
 ![image description](./Proposal3.jpg)
