@@ -6,7 +6,7 @@ My first project idea is to create an interactive virtual pet. I believe the mac
 
 Proposal 2:
 My second project idea is to create a game controlled by a “game controller”. I've seen videos where a joystick can be used as an input device. Using a joystick and buttons, a simple game controller can be created. Even if a joystick is not available, devices like variable resistors can also provide rich interactive features. These inputs would be used to control a small game in p5.js. I don't have specific ideas for this yet. My initial concept is for the player to control a small car or character in a scene, dodging obstacles and attacking targets.
-![image description](./Proposal2.jpg)
+![image description](./proposal2.jpg)
 
 
 Proposal 3:
